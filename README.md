@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TODOLISTAPP**
 
-- 🌱 I’m currently learning **ReactJS, Node.js**
+- 🌱 I’m currently learning **ReactJS, Nodejs**
 
 - 💬 Ask me about **React, Javascript**
 
