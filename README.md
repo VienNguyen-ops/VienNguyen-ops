@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sinh Viên</h1>
-<h3 align="center">TÔI SẼ TRỞ THÀNH MỘT LẬP TRÌNH VIÊN FRONTEND</h3>
+<h3 align="center">TÔI SẼ TRỞ THÀNH MỘT LẬP TRÌNH VIÊN WEBSITE</h3>
 
 - 🔭 I’m currently working on **TODOLISTAPP**
 
