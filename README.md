@@ -11,5 +11,5 @@ Sau khi hoàn thành 4 năm học tại Trường Đại học Thủ Dầu Một
 * 🧠  I'm learning Tailwind CSS, ReactJS, Express, NodeJS
 * ⚡  Mình khá là vui tính
 
-### Skills
+
 
